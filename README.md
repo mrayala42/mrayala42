@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">✨ Started since ... 2022<br>📚 I'm currently learning ... React/Redux<br>🎯 Goals: ... To Learn Everything<br>🎲 Fun fact: ... Programming is difficult</p>
+<p align="center">✨ Started since ... 2022<br>📚 I'm currently learning ... React/Redux<br>🎯 Goals: ... To Learn <br>🎲 Fun fact: ... Programming is difficult</p>
 
 ###
 
@@ -38,6 +38,7 @@
 </div>
 
 ###
+<h2 align="center">Social Links</h2>
 
 <div align="center">
   <a href="https://codepen.io/mrayala42" target="_blank">
