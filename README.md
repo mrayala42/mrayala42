@@ -51,5 +51,3 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="90" height="40" alt="stackoverflow logo"  />
   </a>
 </div>
-
-###
