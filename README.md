@@ -1,8 +1,8 @@
-<h1 align="center">Hey 👋 and Welcome...</h1>
+<h1 align="center">Hey 👋 and Welcome</h1>
 
 ###
 
-<p align="center">My name is Angel, I'm 22 years old, currently learning <br>Fullstack Development (PERN) from California, USA.</p>
+<p align="center">My name is Angel, I'm 22 years old, and currently learning <br>Fullstack Development (PERN) from California, USA.</p>
 
 ###
 
