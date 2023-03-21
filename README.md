@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">✨ Started since ... 2022<br>📚 I'm currently learning ... React/Redux<br>🎯 Goals: ... To Learn and Stay Discipline <br>🎲 Fun fact: ... Programming is difficult</p>
+<p align="center">✨ Started since ... 2022<br>📚 I'm currently learning ... React/Redux<br>🎯 Goals: ... To Learn and Stay Disciplined <br>🎲 Fun fact: ... Programming is difficult</p>
 
 ###
 
